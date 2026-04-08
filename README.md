@@ -1,0 +1,1 @@
+# esp32c6-max31875-aes256-telemetry
